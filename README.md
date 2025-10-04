@@ -7,6 +7,10 @@ This repository serves as a **central hub** for the Long-Term Weather Prediction
 
 This hub repository links to all the separate components of the project:
 
+- **Presentation Slides:**  
+  [View Presentation](https://my.visme.co/view/op6dvdwy-outdoor-weather-planning-presentation)  
+  *Project presentation slides.*
+
 - **Backend (ASP.NET Core 8 Web API)**  
   [Link to backend repo](https://github.com/Mohamed-ALQarram/WeatherPrediction)
 
