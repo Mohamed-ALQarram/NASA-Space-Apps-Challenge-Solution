@@ -8,19 +8,19 @@ This repository serves as a **central hub** for the Long-Term Weather Prediction
 This hub repository links to all the separate components of the project:
 
 - **Backend (ASP.NET Core 8 Web API)**  
-  [Link to backend repo](https://github.com/your-username/backend-repo](https://github.com/Mohamed-ALQarram/WeatherPrediction)
+  [Link to backend repo](https://github.com/Mohamed-ALQarram/WeatherPrediction)
 
 - **Web Frontend (React)**  
-  [Link to web repo](https://github.com/your-username/react-web-repo](https://github.com/Mohamed-ALQarram/WeatherPredictionUI)
+  [Link to web repo](https://github.com/Mohamed-ALQarram/WeatherPredictionUI)
 
 - **Mobile App (Flutter)**  
-  [Link to mobile repo]()
+  [Link to mobile repo] ()
 
 - **Project Documentation (PDF)**  
-  [Link to documentation file](https://github.com/your-username/docs-repo-or-file](https://drive.google.com/file/d/1MQxh7OygXr_wl-axgEimV0d9mpJtXTVt/view?usp=drive_link)
+  [Link to documentation file](https://drive.google.com/file/d/1MQxh7OygXr_wl-axgEimV0d9mpJtXTVt/view?usp=drive_link)
 
 **Live/Running Links (Optional):**  
-- **Web App Demo:** [Your Web App URL]([https://your-web-app-url.com](https://weather-prediction-ui.vercel.app/))  
+- **Web App Demo:** [Your Web App URL]())  
 - **Mobile App Demo / APK Download:** [Link to APK or demo instructions]()
 
 ---
