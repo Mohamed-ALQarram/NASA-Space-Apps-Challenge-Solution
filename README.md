@@ -83,11 +83,3 @@ All datasets and resources are **open and publicly available**. No copyrighted m
 
 We integrated **Google Gemini** to provide **personalized and simplified recommendations** based on probabilities of adverse weather calculated from NASA historical data. Gemini transforms statistical analysis into **clear, user-friendly insights** without using or modifying any NASA branding.  
 
-
-## **6. Screenshots & Demo (Optional)**
-
-You can include **images, mockups, or demo screenshots** here to illustrate the UI and features of your app. Store them in a `docs/images/` folder and link like this:
-
-```markdown
-![Web App Screenshot](docs/images/web-screenshot.png)
-![Mobile App Screenshot](docs/images/mobile-screenshot.png)
